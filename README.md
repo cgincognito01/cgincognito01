@@ -1,4 +1,6 @@
 ### Hi there 👋
+i am Tarit jaiswal
+from SY CSE - AI. I am from Pryagraj currently staying in Pryagraj. I am a tech geek, AI & Data Science enthusiast.
 
 <!--
 **cgincognito01/cgincognito01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
